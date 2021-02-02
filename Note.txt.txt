@@ -1,0 +1,5 @@
+1.Methodlara bax ozunden numuneler qurmaqa caliş
+2.Array lərə bax özündən nümünə qur
+3.Ref and Out key wordlərinə bax
+p121
+https://www.codeconquest.com/reviews/treehouse/
